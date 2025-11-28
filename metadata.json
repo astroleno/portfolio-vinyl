@@ -1,0 +1,5 @@
+{
+  "name": "Vinyl Portfolio",
+  "description": "An immersive, scrolling music portfolio featuring a 3D vinyl record interaction, tonearm mechanics, and dynamic background video switching.",
+  "requestFramePermissions": []
+}
